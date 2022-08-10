@@ -1,7 +1,7 @@
 # Crush-Your-Competitors [![Template Project](https://img.shields.io/badge/Template-Project-red)](http://www.gnu.org/licenses/agpl-3.0) [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FCSS-brightgreen)](http://www.gnu.org/licenses/agpl-3.0)
 
 This is basically a one pager portfolio Template project made in HTML/CSS for a SEO based Service on the internet.
-Hope you like my project !! And Note that I haven't made it responsive it only works in laptop screen if you are useing desktop please zomm in or out that might work .
+Hope you like my project !! I have made it responsive for laptop and mobile with 370x tpo 480px
 
 
 ## 🛠 Technologies Used
@@ -12,6 +12,7 @@ Hope you like my project !! And Note that I haven't made it responsive it only w
 ## Demo
 
 https://user-images.githubusercontent.com/108281031/180704604-d0e4c17e-f3c6-4d47-8cc7-429dd4379e84.mp4
+<img width="220" alt="10 08 2022_19 25 36_REC" src="https://user-images.githubusercontent.com/108281031/183919978-361878ae-6553-4055-9adf-644ff5da85b0.png">
 
 ## Run Locally
 
